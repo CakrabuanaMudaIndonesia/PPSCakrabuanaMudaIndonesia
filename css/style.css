@@ -73,7 +73,7 @@ body {
 }
 
 .navbar .navbar-extra a {
-  color: #fff;
+  color: #ff0707;
   margin: 0 0.5rem;
 }
 
@@ -315,6 +315,7 @@ body {
   margin: auto;
   font-weight: 100;
   line-height: 1.6;
+  font-size: 1.6rem;
 }
 
 .menu .row {
